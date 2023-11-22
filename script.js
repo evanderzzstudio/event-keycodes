@@ -1,1 +1,3 @@
-const a = 1
+window.addEventListener("keydown", (e) => {
+    console.log(e)
+})
